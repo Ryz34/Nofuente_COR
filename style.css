@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+#reg{
+    color: black;
+    float: left;
+    margin-right: 30px;
+}
+#num{
+    color: rgb(221, 0, 0);
+    float: left;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color:skyblue;
+    margin-right: 4px;  
+}
+th, td{
+    padding: 5px;
+    border: 0px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 0px solid black;
+    background-color: white;
+}
+
